@@ -146,7 +146,7 @@ Kazuhito Takahashi(https://twitter.com/KzhtTkhs)
 # Translation and other improvements
 Nikita Kiselov(https://github.com/kinivi)
 
-# America Sign Language Implementation
+# American Sign Language Implementation
 Makenson Noel (https://github.com/makensonn)
  
 # License 
