@@ -151,7 +151,7 @@ Kazuhito Takahashi(https://twitter.com/KzhtTkhs)
 Nikita Kiselov(https://github.com/kinivi)
 
 # American Sign Language Implementation
-Makenson Noel(https://github.com/makjustcode)
+Makenson Noel(https://github.com/makjustcodes)
  
 # License 
 hand-gesture-recognition-using-mediapipe is under [Apache v2 license](LICENSE).
